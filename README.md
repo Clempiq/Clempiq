@@ -27,9 +27,9 @@ Je conçois des produits de bout en bout : comprendre le besoin, cadrer le péri
 
 ### Ma boîte à outils
 
-**Produit :** recueil du besoin, user stories, priorisation, cahier des charges, roadmap, audits UX
-**Design :** Figma, maquettes, parcours utilisateur, design system
-**Dev :** React, Vite, Tailwind, React Native / Expo, Supabase, Vercel, Python pour l'automatisation
+**Produit :** recueil du besoin, user stories, priorisation, cahier des charges, roadmap, audits UX<br>
+**Design :** Figma, maquettes, parcours utilisateur, design system<br>
+**Dev :** React, Vite, Tailwind, React Native / Expo, Supabase, Vercel, Python pour l'automatisation<br>
 **IA :** agents et tâches planifiées (Claude) au service de vrais produits
 
 📫 [clement.piquenet@gmail.com](mailto:clement.piquenet@gmail.com)
