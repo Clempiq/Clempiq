@@ -32,4 +32,4 @@ Je conçois des produits de bout en bout : comprendre le besoin, cadrer le péri
 **Dev :** React, Vite, Tailwind, React Native / Expo, Supabase, Vercel, Python pour l'automatisation
 **IA :** agents et tâches planifiées (Claude) au service de vrais produits
 
-📫 [clemcarrey@gmail.com](mailto:clemcarrey@gmail.com)
+📫 [clement.piquenet@gmail.com](mailto:clement.piquenet@gmail.com)
